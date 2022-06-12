@@ -1,2 +1,2 @@
 # solahub
-django project 
+django project task 
