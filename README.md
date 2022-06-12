@@ -1,0 +1,2 @@
+# solahub
+django project 
